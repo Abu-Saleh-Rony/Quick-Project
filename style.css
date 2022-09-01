@@ -1,3 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap');
+
+
 .navbar-underline-color {
     color: #3b506c42;
+}
+
+.font-color-top {
+    color: #4e84fa;
+}
+
+.image-shape {
+    height: 550px;
+}
+
+.font-color {
+    color: #ff6349;
+}
+
+
+.margin-shape1 {
+    margin-left: 35%;
+    flex-basis: 35%;
+}
+
+.margin-shape2 {
+    margin-right: 32%;
+    flex-basis: 32%;
+}
+
+.card-bg-color {
+    background-color: rgb(255 228 232);
+}
+
+.card-bg-color2 {
+    background-color: rgb(227 249 241);
+}
+
+.card-bg-color3 {
+    background-color: rgb(255 245 220);
+}
+
+
+footer {
+    background-color: #4e84fa;
+    padding: 20px 0;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
 }
